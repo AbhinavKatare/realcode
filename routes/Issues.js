@@ -1,3 +1,5 @@
+// Handling Issues in the code on the system and AI software will handle that 
+
 const express = require('express');
 const Issue = require('../models/Issue');
 const { authenticateToken } = require('../middleware/auth');
