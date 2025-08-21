@@ -1,5 +1,8 @@
 /*
 Its for the Projects schema in mongoose 
+for members 
+createdby
+created at 
 */
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
