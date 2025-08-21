@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
-
+// if you learnt through import you can use import i simply used require here  
 const authRoutes = require('./routes/auth');
 const projectRoutes = require('./routes/projects');
 const issueRoutes = require('./routes/Issues');
