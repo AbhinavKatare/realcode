@@ -1,3 +1,4 @@
+// Added middleware will soon add more in it and it can carry the webtokens also 
 const jwt = require('jsonwebtoken');
 const SECRET = 'your_jwt_secret_here';
 
