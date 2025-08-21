@@ -1,5 +1,6 @@
 /* I put schema here for the issues got find 
 with many schema names 
+like ProjectId, reportedBy and 
 */
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
