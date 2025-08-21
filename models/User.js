@@ -1,3 +1,4 @@
+// for User schema and working schema in the Mongo
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
