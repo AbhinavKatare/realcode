@@ -1,4 +1,4 @@
-# For code analysis this code will make an issue basemodel  
+# For code analysis this code will make an issue basemodel in the model
 from pydantic import BaseModel
 from typing import Optional
 
