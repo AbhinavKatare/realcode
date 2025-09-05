@@ -1,9 +1,9 @@
 /* I put schema here for the issues got find 
 with many schema names 
-like ProjectId, reportedBy and 
+like ProjectId, reportedBy and linenumber
 */
 const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+const Schema = mongoose.Schema; 
 
 const IssueSchema = new Schema({
   projectId: { type: Schema.Types.ObjectId, ref: 'Project', required: true },
