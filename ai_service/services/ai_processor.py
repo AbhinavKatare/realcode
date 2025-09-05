@@ -1,7 +1,7 @@
-# With import it can help in processor for working 
+# With import it can help in processor for working  
 ## which can be helpful in the model processor
 
-from typing import List
+from typing import List 
 from models.code_analysis import Issue
 
 async def analyze_code(code: str) -> List[Issue]:
